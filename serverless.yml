@@ -1,5 +1,6 @@
 service: node-in-aws-web-marina
 
+
 frameworkVersion: '2'
 
 provider:
@@ -17,7 +18,7 @@ plugins:
 
 custom:
   client:
-    bucketName: mybacket71025
+    bucketName: mybacket71025-auto
     distributionFolder: build
   s3BucketName: ${self:custom.client.bucketName}
 
