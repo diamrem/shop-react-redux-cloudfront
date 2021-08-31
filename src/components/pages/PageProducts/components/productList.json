@@ -1,58 +1,66 @@
 [
   {
     "count": 4,
-    "description": "Short Product Description1",
+    "description": "Let's enjoy the most wonderful trip",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
-    "price": 2.4,
-    "title": "ProductOne"
+    "price": 2550.99,
+    "title": "Travel 1",
+    "imageId": "000054623"
   },
   {
     "count": 6,
-    "description": "Short Product Description3",
+    "description": "Let's enjoy the most wonderful trip  (negotiable price)",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a0",
-    "price": 10,
-    "title": "ProductNew"
+    "price": 1199,
+    "title": "Travel 2",
+    "imageId": "000054602"
   },
   {
     "count": 7,
-    "description": "Short Product Description2",
+    "description": "Crossing in two Russian capitals, we will see Karelia with our own eyes",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a2",
-    "price": 23,
-    "title": "ProductTop"
+    "price": 329,
+    "title": "Travel 3",
+    "imageId": "000054603"
   },
   {
     "count": 12,
-    "description": "Short Product Description7",
+    "description": "Climatic and other factors have exerted considerable influence on the patterns of human settlement ",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
-    "price": 15,
-    "title": "ProductTitle"
+    "price": 399,
+    "title": "Travel 4",
+    "imageId": "000054606"
   },
   {
     "count": 7,
-    "description": "Short Product Description2",
+    "description": "Best night views",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a3",
-    "price": 23,
-    "title": "Product"
+    "price": 519,
+    "title": "Travel 5",
+    "imageId": "000054608"
   },
   {
     "count": 8,
-    "description": "Short Product Description4",
+    "description": "The best nature in the world, the most aesthetic palaces, the best sunsets",
     "id": "7567ec4b-b10c-48c5-9345-fc73348a80a1",
-    "price": 15,
-    "title": "ProductTest"
+    "price": 449.99,
+    "title": "Travel 6",
+    "imageId": "000054611"
   },
   {
     "count": 2,
-    "description": "Short Product Descriptio1",
+    "description": "The second best nature in the world, aesthetic palaces, the best sunsets",
     "id": "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
-    "price": 23,
-    "title": "Product2"
+    "price": 560,
+    "title": "Travel 7",
+    "imageId": "000054613"
   },
   {
     "count": 3,
-    "description": "Short Product Description7",
+    "description": "aesthetic palaces, the best sunsets",
     "id": "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
-    "price": 15,
-    "title": "ProductName"
+    "price": 515,
+    "title": "Travel 8",
+    "imageId": "000054619"
   }
 ]
