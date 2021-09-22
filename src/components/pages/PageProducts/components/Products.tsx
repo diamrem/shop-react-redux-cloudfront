@@ -36,9 +36,9 @@ export default function Products() {
   const [products, setProducts] = useState<Product[]>([]);
 
   useEffect(() => {
-    axios.get(`${API_PATHS.bff}/product/available/`)
+    axios.get(`${API_PATHS.bff}/products/`)
       .then(res => setProducts(res.data));
-    // setProducts(productList);
+      //  setProducts(productList);
   }, [])
 
   return (
@@ -48,8 +48,7 @@ export default function Products() {
           <Card className={classes.card}>
             <CardMedia
               className={classes.cardMedia}
-              image={`https://d27llxj8bl8edl.cloudfront.net/${product.imageId}.jpg
-              `} 
+              image={`https://d27llxj8bl8edl.cloudfront.net/${product.imageid}.jpg`} 
               title="Image title"
             />
             <CardContent className={classes.cardContent}>
